@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vaporwave is kinda cool</title>
+<link rel="icon" href="em.gif">
+<STYLE>
+body { 
+    background-image: url('fullhd.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+</STYLE>
+<CENTER>
+<IMG SRC="em.gif" ALT="how did u find me">
+<font face = "comic sans ms", size = "15"> Welcome to my Internet </font>
+<IMG SRC="em.gif" ALT="wow u found me">
+</CENTER>
+</head>
+
+<body>
+<center>
+
+</body>
+</html>
+
