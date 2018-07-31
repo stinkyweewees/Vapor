@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vaporwave is kinda cool/title>
+<link rel="icon" href="em.gif">
+<STYLE>
+body { 
+    background-image: url('fullhd.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+</STYLE>
+  </head>
+  <body>
+    <h1>Why is the internet so important</h1>
+
+    <p>Im just a 13 year old boy that doesn't know much. But I kinda like to think about things. Like the internet, its almost magical.Thanks to the trans-ocean-data cables  can I talk to anyone  all around the world in real time.</p>
+   
+<p> For me thats magical, or well, hard to understand. But in the end are we are just apes with smartphones on a fragile tiny island in space
+looking into the sky and wondering how the universe works.</p>
+
+<p> here are some links why the internet is the solution to most of our problems</p>
+   <ul>
+    <li><A HREF="https://www.youtube.com/watch?v=GA_Og6LchMU">For every little girl and her not so little dreams "Video"</A></li>
+    <li><A HREF="https://www.youtube.com/watch?v=iYVx15KEEEs">Internet for all women in India "Video"</A></li>
+    <li><A HREF="https://www.youtube.com/watch?v=Dxcc6ycZ73M">What is the internet? "Video"</A></li>
+    <li><A HREF="https://www.youtube.com/watch?v=UlJku_CSyNg">1994:What is the internet? "Video"</A></li>
+    <li><A HREF="http://www.explainthatstuff.com/internet-and-brain.html"> Is the internet a brain</A></li>
+  </ul>
+  
+  <p> The internet is one gigantic well-stocked fridge ready for raiding; for some strange reason, people go up there and just give stuff away.
+—Mega 'Zines, Macworld (1995)</p>
+  </body>
+</html>
